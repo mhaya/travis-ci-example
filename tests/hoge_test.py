@@ -15,9 +15,9 @@ class HogeTest(unittest.TestCase):
         hoge = Hoge()
         self.assertTrue(hoge.index())
 
-    def test_func1(self):
-        hoge = Hoge()
-        self.assertEqual(1,hoge.func1())
+#    def test_func1(self):
+#        hoge = Hoge()
+#        self.assertEqual(1,hoge.func1())
 
 def suite():
     suite = unittest.TestSuite()
