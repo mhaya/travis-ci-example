@@ -6,5 +6,5 @@ class Hoge:
       return True
 
   def func1(self):
-      print 1
+      return 1
 
