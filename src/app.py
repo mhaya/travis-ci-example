@@ -1,10 +1,7 @@
 # coding utf-8
 
-class Hoge:
+class MyClass:
   
-  def index(self):
-      return True
-
   def func1(self):
       return 1
 
