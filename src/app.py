@@ -8,4 +8,6 @@ class MyClass:
   def func1(self):
       return 1
 
+  def func2(self):
+      return 2
    
